@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "Perish World NFT",
   "SYMBOL": "PWNFT",
-  "MAX_SUPPLY": 20,
+  "MAX_SUPPLY": 5,
   "WEI_COST": 4000000000000000000,
   "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,
